@@ -353,19 +353,15 @@ body {
 }
 
 .progress-line.html span {
-    width: 90%;
+    width: 75%;
 }
 
 .progress-line.css span {
     width: 80%;
 }
 
-.progress-line.python span {
-    width: 75%;
-}
-
 .progress-line.java span {
-    width: 50%;
+    width: 70%;
 }
 
 .progress-line.cpls span {
