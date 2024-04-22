@@ -210,7 +210,7 @@ body {
 }
 
 .abt-res {
-    width: 100%;
+    width: 90%;
     height: auto;
     max-width: 492px;
     max-height: 492px;
@@ -387,10 +387,6 @@ body {
 
 .progress-line.css span::after {
     content: "80%";
-}
-
-.progress-line.python span::after {
-    content: "75%";
 }
 
 .progress-line.java span::after {
