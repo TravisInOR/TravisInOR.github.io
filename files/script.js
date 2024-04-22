@@ -1,8 +1,8 @@
 var typed = new Typed(".text", {
     strings: ["Programming" , "AI" , "Development"],
-    typeSpeed:100,
-    backSpeed:100,
-    backDelay:1000,
+    typeSpeed:120,
+    backSpeed:120,
+    backDelay:900,
     loop:true
 });
 
